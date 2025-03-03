@@ -10,7 +10,8 @@ The project consists of a backend developed with Express.js and a modern fronten
 
 ---
 
-
+![Ekran görüntüsü 2025-03-04 012548](https://github.com/user-attachments/assets/3bffbd25-8572-413b-81ce-50375973f599)
+![Ekran görüntüsü 2025-03-04 012607](https://github.com/user-attachments/assets/1f25de2b-36e1-4048-8c73-ec27f49a4842)
 
 ---
 
@@ -31,7 +32,7 @@ To run the project on your local machine, follow these steps:
 1. **Clone the Repository:**
     
     ```
-    git clone https://github.com/your-username/education-ai-assistant.git
+    git clone https://github.com/metehanayhan/Education-AI-Assistant.git
     cd education-ai-assistant
     ```
     
@@ -125,7 +126,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 1. **Depoyu Klonlayın:**
     
     ```
-    git clone https://github.com/kullanici-adiniz/education-ai-assistant.git
+    git clone https://github.com/metehanayhan/Education-AI-Assistant.git
     cd education-ai-assistant
     ```
     
@@ -181,7 +182,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICE
 
 ## İletişim
 
-Proje hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen [GitHub Issues](https://github.com/metehanayhan/Education-AI-Assistant/issues) üzerinden bize ulaşın.
+Proje hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen [GitHub Issues](https://github.com/metehanayhan/Education-AI-Assistant/issues) üzerinden bana ulaşın.
 
 ---
 

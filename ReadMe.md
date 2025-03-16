@@ -54,8 +54,6 @@ To run the project on your local machine, follow these steps:
 
 ## File Structure
 
-Copy
-
 ```
 education-ai-assistant/
 ├── public/              # Static files (CSS, JS, images)
@@ -147,8 +145,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 ---
 
 ## Dosya Yapısı
-
-Copy
 
 ```
 education-ai-assistant/
